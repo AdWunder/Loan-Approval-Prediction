@@ -29,7 +29,7 @@ This project focuses on predicting **loan approval status** using machine learni
 ---
 
 ## 📊 Model Performance
-After applying MinMaxScaler and optimizing the Random Forest model, the accuracy equals to 92%**.  
+After applying MinMaxScaler and optimizing the Random Forest model, the accuracy equals to **92%**.  
 
 **Final Results:**  
 | Metric         | Score  |
