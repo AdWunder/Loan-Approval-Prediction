@@ -6,6 +6,7 @@ This project focuses on predicting **loan approval status** using machine learni
 
 🔹 **Dataset**: Contains applicant details such as income, loan amount, credit history, and other financial indicators.  
 (Source Kaggle : https://www.kaggle.com/datasets/ninzaami/loan-predication/data)
+
 🔹 **Goal**: Predict whether a loan will be approved or rejected based on given features.  
 🔹 **Techniques Used**: Data preprocessing, feature scaling, class balancing, hyperparameter tuning, and model evaluation.  
 
